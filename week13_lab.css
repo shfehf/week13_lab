@@ -1,0 +1,22 @@
+#block{
+	margin-left: 40%;
+	margin-right: 43%;
+	border-style: groove;
+	background-color: lightgray;
+}
+
+.cal_button{
+	background-color: orange;
+}
+
+.input_box, label, h1, select, p{
+	margin-left: 2%;
+}
+
+select{
+	width: 4.5cm;
+}
+
+.cal_button{
+	width: 4.5cm;
+}
